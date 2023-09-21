@@ -1,2 +1,2 @@
 # ghost
-My brother taught me this word game called Ghost when we were kids. Each player takes turns adding letters to the end of a string. The aim is to force the other player to be the first to complete the word. As far as I could tell, there were no online versions, so I thought I would make one.
+My brother taught me this word game called Ghost when we were kids. Each player takes turns adding letters to the end of a string. The aim is to force the other player to be the first to complete the word. As far as I could tell, there were no online versions, so I thought I would make one. At the same time, I would solve one of the major problems we faced while playing Ghost - the lack of an adjudicator to check whether there really were any valid words left.
